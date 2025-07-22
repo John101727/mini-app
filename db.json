@@ -1,0 +1,40 @@
+{
+  "companies": [
+    {
+      "id": "614c",
+      "companyName": "sample",
+      "integrations": [
+        {
+          "integrationName": "Google Cloud",
+          "integrationLogo": "https://s3.us-west-2.amazonaws.com/cdn.saasconsole.com/static/img/integrations/google-cloud.png"
+        },
+        {
+          "integrationName": "Bitbucket",
+          "integrationLogo": "https://s3.us-west-2.amazonaws.com/cdn.saasconsole.com/static/img/integrations/bitbucket.png"
+        },
+        {
+          "integrationName": "Oracle",
+          "integrationLogo": "https://s3.us-west-2.amazonaws.com/cdn.saasconsole.com/static/img/integrations/oracle-logo.png"
+        }
+      ]
+    },
+    {
+      "id": "d5d9",
+      "companyName": "sample2",
+      "integrations": [
+        {
+          "integrationName": "Google Cloud",
+          "integrationLogo": "https://s3.us-west-2.amazonaws.com/cdn.saasconsole.com/static/img/integrations/google-cloud.png"
+        },
+        {
+          "integrationName": "Bitbucket",
+          "integrationLogo": "https://s3.us-west-2.amazonaws.com/cdn.saasconsole.com/static/img/integrations/bitbucket.png"
+        },
+        {
+          "integrationName": "Jira",
+          "integrationLogo": "https://s3.us-west-2.amazonaws.com/cdn.saasconsole.com/static/img/integrations/jira.png"
+        }
+      ]
+    }
+  ]
+}
